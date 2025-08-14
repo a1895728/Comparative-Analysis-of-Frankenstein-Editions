@@ -14,9 +14,20 @@ Contains reusable functions built from the final report code, including:
 - R markdown file for report output.
 
 3. **EPS_Graphs**
-The EPS graphs related to the 'R Code Final Report' are stored here, as they could not be kept within the main folder due to memory limitations.
+The EPS graphs folder related to the 'R Code Final Report' is stored here, as they could not be kept within the main folder due to memory limitations.
 
 4. **Tables**
-The Tables related to the 'R Code Final Report' are stored here, as they could not be kept within the main folder due to memory limitations.
+The Tables folder related to the 'R Code Final Report' is stored here, as they could not be kept within the main folder due to memory limitations.
+
+5. **The Picture of Dorian Gray (1890 vs 1891)**
+The folder related to the 'Function Accuracy Checking in R Code General Funtion' is stored here, as they could not be kept within the main folder due to memory limitations.
+
+6. **Frankenstein (1818) vs Dracula (1897)  **
+The folder related to the 'Function Accuracy Checking in R Code General Funtion' is stored here, as they could not be kept within the main folder due to memory limitations.
+
+7. **Treasure Island (1833) vs Kidnapped (1886)**
+The folder related to the 'Function Accuracy Checking in R Code General Funtion' is stored here, as they could not be kept within the main folder due to memory limitations.
+
+
 
 
