@@ -13,3 +13,10 @@ Contains reusable functions built from the final report code, including:
 - Reusable Functions: General-purpose functions for text analysis including NER.
 - R markdown file for report output.
 
+3. **EPS_Graphs**
+The EPS graphs related to the 'R Code Final Report' are stored here, as they could not be kept within the main folder due to memory limitations.
+
+4. **Tables**
+The Tables related to the 'R Code Final Report' are stored here, as they could not be kept within the main folder due to memory limitations.
+
+
